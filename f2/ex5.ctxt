@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ex5
+comment0.text=\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ ex5\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\n
+comment1.params=arr
+comment1.target=ex5(java.util.ArrayList)
+comment2.params=
+comment2.target=java.util.ArrayList\ semrepetidos()
+comment2.text=\n\ a)determinar\ o\ array\ sem\ repeti\u00E7oes\n
+comment3.params=
+comment3.target=java.lang.String\ maiorString()
+comment3.text=\n\ b)\ determinar\ a\ maior\ string\ inserida\n
+comment4.params=
+comment4.target=java.util.ArrayList\ srepetidas()
+comment4.text=\n\ c)\ determinar\ um\ array\ com\ as\ strings\ repetidas\n
+comment5.params=string
+comment5.target=int\ numeroOcorr(java.lang.String)
+comment5.text=\n\ d)\ determinar\ quantas\ vezes\ uma\ determinada\ String\ ocorre\ no\ array\n
+numComments=6

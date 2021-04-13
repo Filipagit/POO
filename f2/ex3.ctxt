@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ex3
+comment0.text=\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ ex3\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\n
+comment1.params=
+comment1.target=ex3()
+comment2.params=n
+comment2.target=ex3(int)
+comment3.params=data
+comment3.target=void\ insereData(java.time.LocalDate)
+comment3.text=\n\ a)\ inserir\ uma\ nova\ data\n
+comment4.params=data
+comment4.target=java.time.LocalDate\ dataMaisProxima(java.time.LocalDate)
+comment4.text=\n\ b)\ dada\ uma\ data\ determinar\ a\ data\ mais\ proxima\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ devolve\ uma\ string\ com\ todas\ as\ datas\ do\ array\ \n
+numComments=6

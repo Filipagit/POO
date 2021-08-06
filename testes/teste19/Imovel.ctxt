@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Imovel
-comment0.text=\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Imovel\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\n
-comment1.params=
-comment1.target=double\ precoDia()
-comment2.params=
-comment2.target=double\ getPrecoBase()
-numComments=3
